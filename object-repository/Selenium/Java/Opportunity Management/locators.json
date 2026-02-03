@@ -1,0 +1,40 @@
+{
+  "Opportunity ManagementPage": {
+    "elem_igfrlh": {
+      "type": "xpath",
+      "value": "//label[text()='Account Name']/following::input"
+    },
+    "elem_e1gabm": {
+      "type": "xpath",
+      "value": "//div[contains(@class, 'slds-lookup__menu"
+    },
+    "elem_d2n809": {
+      "type": "xpath",
+      "value": "//label[text()='Stage']/following::button"
+    },
+    "elem_n3i7mh": {
+      "type": "xpath",
+      "value": "//span[@title='Prospecting']"
+    },
+    "elem_25shla": {
+      "type": "css",
+      "value": "a[title='New']"
+    },
+    "opportunityName": {
+      "type": "css",
+      "value": "lightning-input[name='Opportunity Name'] input"
+    },
+    "closeDate": {
+      "type": "css",
+      "value": "lightning-input[name='CloseDate'] input"
+    },
+    "saveEdit": {
+      "type": "css",
+      "value": "button[name='SaveEdit']"
+    },
+    "elem_pf4vh9": {
+      "type": "css",
+      "value": ".slds-text-color_error"
+    }
+  }
+}
