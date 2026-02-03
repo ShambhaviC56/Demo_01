@@ -1,0 +1,32 @@
+{
+  "QuotePage": {
+    "elem_ote5re": {
+      "type": "xpath",
+      "value": "//span[text()='Quotes']"
+    },
+    "elem_w6d1j2": {
+      "type": "css",
+      "value": "div.slds-context-bar__icon-action button[aria-haspopup='true']"
+    },
+    "elem_pim1us": {
+      "type": "css",
+      "value": "div.slds-page-header.slds-grid.slds-grid_align-spread.slds-m-bottom_medium div.slds-col.slds-no-flex.slds-grid.slds-grid_vertical-align-center.actions.forceActionsContainer a[title='New']"
+    },
+    "name": {
+      "type": "css",
+      "value": "lightning-input-field[field-name='Name'] input"
+    },
+    "elem_lcnaot": {
+      "type": "css",
+      "value": "lightning-input[class='slds-grow slds-truncate'] input[part='input']"
+    },
+    "saveEdit": {
+      "type": "css",
+      "value": "button[name='SaveEdit']"
+    },
+    "elem_r8l8i6": {
+      "type": "css",
+      "value": "div.forceToastMessage"
+    }
+  }
+}
