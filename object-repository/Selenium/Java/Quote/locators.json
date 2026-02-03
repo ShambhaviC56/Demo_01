@@ -2,7 +2,8 @@
   "QuotePage": {
     "elem_ote5re": {
       "type": "xpath",
-      "value": "//span[text()='Quotes']"
+      "value": "//span[text()='Quotes']",
+      "lastUsed": "2026-02-03"
     },
     "elem_w6d1j2": {
       "type": "css",
@@ -10,11 +11,13 @@
     },
     "elem_pim1us": {
       "type": "css",
-      "value": "div.slds-page-header.slds-grid.slds-grid_align-spread.slds-m-bottom_medium div.slds-col.slds-no-flex.slds-grid.slds-grid_vertical-align-center.actions.forceActionsContainer a[title='New']"
+      "value": "div.slds-page-header.slds-grid.slds-grid_align-spread.slds-m-bottom_medium div.slds-col.slds-no-flex.slds-grid.slds-grid_vertical-align-center.actions.forceActionsContainer a[title='New']",
+      "lastUsed": "2026-02-03"
     },
     "name": {
       "type": "css",
-      "value": "lightning-input-field[field-name='Name'] input"
+      "value": "lightning-input-field[field-name='Name'] input",
+      "lastUsed": "2026-02-03"
     },
     "elem_lcnaot": {
       "type": "css",
@@ -22,15 +25,18 @@
     },
     "saveEdit": {
       "type": "css",
-      "value": "button[name='SaveEdit']"
+      "value": "button[name='SaveEdit']",
+      "lastUsed": "2026-02-03"
     },
     "elem_r8l8i6": {
       "type": "css",
-      "value": "div.forceToastMessage"
+      "value": "div.forceToastMessage",
+      "lastUsed": "2026-02-03"
     },
     "cancelEdit": {
       "type": "css",
-      "value": "button[name='CancelEdit']"
+      "value": "button[name='CancelEdit']",
+      "lastUsed": "2026-02-03"
     }
   }
 }
