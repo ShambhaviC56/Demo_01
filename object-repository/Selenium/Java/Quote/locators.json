@@ -27,6 +27,10 @@
     "elem_r8l8i6": {
       "type": "css",
       "value": "div.forceToastMessage"
+    },
+    "cancelEdit": {
+      "type": "css",
+      "value": "button[name='CancelEdit']"
     }
   }
 }
