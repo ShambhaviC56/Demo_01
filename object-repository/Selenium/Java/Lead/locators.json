@@ -1,0 +1,40 @@
+{
+  "LeadPage": {
+    "newBtn": {
+      "type": "css",
+      "value": "div[title='Leads'] + div.slds-page-header button[title='New']"
+    },
+    "firstName": {
+      "type": "css",
+      "value": "lightning-input[field-name='FirstName'] input"
+    },
+    "lastName": {
+      "type": "css",
+      "value": "lightning-input[field-name='LastName'] input"
+    },
+    "email": {
+      "type": "css",
+      "value": "lightning-input[field-name='Email'] input"
+    },
+    "phone": {
+      "type": "css",
+      "value": "lightning-input[field-name='Phone'] input"
+    },
+    "company": {
+      "type": "css",
+      "value": "lightning-input[field-name='Company'] input"
+    },
+    "saveEdit": {
+      "type": "css",
+      "value": "button[name='SaveEdit']"
+    },
+    "elem_b3x4jn": {
+      "type": "css",
+      "value": "span[class*='toastMessage']"
+    },
+    "elem_i0uohf": {
+      "type": "css",
+      "value": "lightning-formatted-text[slot='outputField']"
+    }
+  }
+}
