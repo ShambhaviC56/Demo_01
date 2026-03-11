@@ -1,0 +1,136 @@
+{
+  "P2PPage": {
+    "sapUsernameInput": {
+      "type": "css",
+      "value": "#USERNAME_FIELD_ID"
+    },
+    "sapPasswordInput": {
+      "type": "css",
+      "value": "#PASSWORD_FIELD_ID"
+    },
+    "sapLoginButton": {
+      "type": "css",
+      "value": "#LOGIN_BUTTON_ID"
+    },
+    "transactionCodeInput": {
+      "type": "css",
+      "value": "#TRANSACTION_CODE_ID"
+    },
+    "materialInput": {
+      "type": "css",
+      "value": "#MATERIAL_INPUT_ID"
+    },
+    "quantityInput": {
+      "type": "css",
+      "value": "#QUANTITY_INPUT_ID"
+    },
+    "plantInput": {
+      "type": "css",
+      "value": "#PLANT_INPUT_ID"
+    },
+    "deliveryDateInput": {
+      "type": "css",
+      "value": "#DELIVERY_DATE_INPUT_ID"
+    },
+    "accountAssignmentCategoryInput": {
+      "type": "css",
+      "value": "#ACCOUNT_ASSIGNMENT_CATEGORY_ID"
+    },
+    "costCenterInput": {
+      "type": "css",
+      "value": "#COST_CENTER_INPUT_ID"
+    },
+    "saveButton": {
+      "type": "css",
+      "value": "#SAVE_BUTTON_ID"
+    },
+    "purchaseRequisitionNumber": {
+      "type": "css",
+      "value": "#PURCHASE_REQUISITION_NUMBER_ID"
+    },
+    "purchaseRequisitionSearchInput": {
+      "type": "css",
+      "value": "#PURCHASE_REQUISITION_SEARCH_ID"
+    },
+    "requesterField": {
+      "type": "css",
+      "value": "#REQUESTER_FIELD_ID"
+    },
+    "materialField": {
+      "type": "css",
+      "value": "#MATERIAL_FIELD_ID"
+    },
+    "quantityField": {
+      "type": "css",
+      "value": "#QUANTITY_FIELD_ID"
+    },
+    "vendorField": {
+      "type": "css",
+      "value": "#VENDOR_FIELD_ID"
+    },
+    "totalAmountField": {
+      "type": "css",
+      "value": "#TOTAL_AMOUNT_FIELD_ID"
+    },
+    "approveButton": {
+      "type": "css",
+      "value": "#APPROVE_BUTTON_ID"
+    },
+    "approvalCommentsInput": {
+      "type": "css",
+      "value": "#APPROVAL_COMMENTS_ID"
+    },
+    "submitButton": {
+      "type": "css",
+      "value": "#SUBMIT_BUTTON_ID"
+    },
+    "confirmationMessage": {
+      "type": "css",
+      "value": "#CONFIRMATION_MESSAGE_ID"
+    },
+    "servicenowApprovalId": {
+      "type": "css",
+      "value": "#SERVICENOW_APPROVAL_ID"
+    },
+    "purchaseOrderNumberInput": {
+      "type": "css",
+      "value": "#PURCHASE_ORDER_NUMBER_ID"
+    },
+    "invoiceNumberInput": {
+      "type": "css",
+      "value": "#INVOICE_NUMBER_ID"
+    },
+    "invoiceDateInput": {
+      "type": "css",
+      "value": "#INVOICE_DATE_ID"
+    },
+    "invoiceDocumentUpload": {
+      "type": "css",
+      "value": "#INVOICE_DOCUMENT_UPLOAD_ID"
+    },
+    "amountDueField": {
+      "type": "css",
+      "value": "#AMOUNT_DUE_FIELD_ID"
+    },
+    "submitInvoiceButton": {
+      "type": "css",
+      "value": "#SUBMIT_INVOICE_BUTTON_ID"
+    },
+    "successfulInvoiceSubmissionMessage": {
+      "type": "css",
+      "value": "#SUCCESSFUL_INVOICE_SUBMISSION_MESSAGE_ID"
+    },
+    "purchaseOrderNumberInputSAP": {
+      "type": "css",
+      "value": "#PURCHASE_ORDER_NUMBER_SAP_ID"
+    },
+    "invoiceNumberSAP": {
+      "type": "css",
+      "value": "#INVOICE_NUMBER_SAP_ID"
+    },
+    "invoiceStatusSAP": {
+      "type": "css",
+      "value": "#INVOICE_STATUS_SAP_ID"
+    }
+  }
+}
