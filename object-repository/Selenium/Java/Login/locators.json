@@ -1,0 +1,16 @@
+{
+  "LoginPage": {
+    "username": {
+      "type": "css",
+      "value": "input[name='username']"
+    },
+    "password": {
+      "type": "css",
+      "value": "input[name='password']"
+    },
+    "login": {
+      "type": "css",
+      "value": "button[name='login']"
+    }
+  }
+}
