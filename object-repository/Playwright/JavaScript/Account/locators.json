@@ -1,0 +1,12 @@
+{
+  "AccountPage": {
+    "validationErrorMessage": {
+      "type": "css",
+      "value": "div.forceVisualMessageQueue ul li"
+    },
+    "recordId": {
+      "type": "css",
+      "value": ".forceOutputLookup a"
+    }
+  }
+}
