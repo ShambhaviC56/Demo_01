@@ -1,0 +1,28 @@
+{
+  "AccountPage": {
+    "elem_q06wto": {
+      "type": "xpath",
+      "value": "//a[@title='\" + accountName + \"']"
+    },
+    "elem_4yem9e": {
+      "type": "xpath",
+      "value": "//h1[contains(@class, 'slds-page-header__title"
+    },
+    "edit": {
+      "type": "xpath",
+      "value": "//button[@name='Edit']"
+    },
+    "elem_sdqp9b": {
+      "type": "css",
+      "value": "input[placeholder='Search Salesforce']"
+    },
+    "tCVAmountc": {
+      "type": "css",
+      "value": "lightning-output-field[field-name='TCV_Amount__c'] lightning-formatted-text"
+    },
+    "saveEdit": {
+      "type": "css",
+      "value": "button[name='SaveEdit']"
+    }
+  }
+}
