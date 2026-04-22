@@ -29,6 +29,30 @@
       "type": "css",
       "value": "button[name='SaveEdit']",
       "lastUsed": "2026-04-22"
+    },
+    "elem_b2qekh": {
+      "type": "xpath",
+      "value": "//mark[text()='Accounts']/ancestor::a"
+    },
+    "elem_yfsx5": {
+      "type": "xpath",
+      "value": "//ul[@role='menu']//a[@role='option']//span[@class='slds-truncate'][text()='\" + listViewName + \"']"
+    },
+    "elem_xycr1r": {
+      "type": "css",
+      "value": "div.slds-icon-waffle"
+    },
+    "elem_iutqq6": {
+      "type": "css",
+      "value": "input.slds-input[placeholder='Search apps and items...']"
+    },
+    "listViewControlsBtn": {
+      "type": "css",
+      "value": "button[title='List View Controls']"
+    },
+    "elem_lj6gzx": {
+      "type": "css",
+      "value": "div.entityNameTitle span.trigger-text"
     }
   }
 }
