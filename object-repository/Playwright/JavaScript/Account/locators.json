@@ -7,6 +7,13 @@
     "recordId": {
       "type": "css",
       "value": ".forceOutputLookup a"
+    },
+    "state": {
+      "type": "css",
+      "value": "visible",
+      "source": "TC002",
+      "firstSeen": "2026-04-22",
+      "lastUsed": "2026-04-22"
     }
   }
 }
