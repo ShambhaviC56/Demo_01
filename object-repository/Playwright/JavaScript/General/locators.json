@@ -1,0 +1,16 @@
+{
+  "GeneralPage": {
+    "waitUntil": {
+      "type": "css",
+      "value": "networkidle",
+      "firstSeen": "2026-04-22",
+      "lastUsed": "2026-04-22"
+    },
+    "state": {
+      "type": "css",
+      "value": "visible",
+      "firstSeen": "2026-04-22",
+      "lastUsed": "2026-04-22"
+    }
+  }
+}
