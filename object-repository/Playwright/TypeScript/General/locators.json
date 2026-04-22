@@ -1,0 +1,10 @@
+{
+  "GeneralPage": {
+    "waitUntil": {
+      "type": "css",
+      "value": "domcontentloaded",
+      "firstSeen": "2026-04-22",
+      "lastUsed": "2026-04-22"
+    }
+  }
+}
