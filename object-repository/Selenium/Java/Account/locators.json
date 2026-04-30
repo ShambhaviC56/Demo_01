@@ -53,6 +53,10 @@
     "elem_lj6gzx": {
       "type": "css",
       "value": "div.entityNameTitle span.trigger-text"
+    },
+    "elem_pc1mhq": {
+      "type": "css",
+      "value": "div.listContent"
     }
   }
 }
