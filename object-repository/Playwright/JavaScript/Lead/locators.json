@@ -1,0 +1,8 @@
+{
+  "LeadPage": {
+    "appLauncherButton": {
+      "type": "css",
+      "value": "div.slds-icon-waffle"
+    }
+  }
+}
