@@ -19,6 +19,10 @@
     "elem_n6th5i": {
       "type": "css",
       "value": "lightning-spinner"
+    },
+    "elem_n6igdk": {
+      "type": "css",
+      "value": "a[href="
     }
   }
 }
