@@ -7,4 +7,5 @@ class AccountLocators {
     public static final By TYPE_COMBOBOX = By.cssSelector("lightning-combobox[field-name='Type']");
     public static final By OWNER_LOOKUP = By.cssSelector("lightning-lookup[field-name='OwnerId'] input");
     // Add more locators here
+    private AccountLocators() {}
 }
