@@ -72,10 +72,6 @@
       "type": "css",
       "value": "lightning-lookup[field-name='OwnerId'] input",
       "lastUsed": "2026-05-04"
-    },
-    "new": {
-      "type": "css",
-      "value": "button[name='New']"
     }
   }
 }
