@@ -65,6 +65,10 @@
     "type": {
       "type": "css",
       "value": "lightning-combobox[field-name='Type']"
+    },
+    "ownerId": {
+      "type": "css",
+      "value": "lightning-lookup[field-name='OwnerId'] input"
     }
   }
 }
