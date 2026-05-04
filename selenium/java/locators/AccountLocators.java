@@ -1,5 +1,11 @@
-[
-  {
-    "filename": "AccountLocators.java",
-    "explanation": "Object repository containing all element locators for Account",
-    "code": "package locators;\n\nimport org.openqa.selenium.By;\n\npublic class AccountLocators {\n    // App Launcher and Navigation\n    public static final By APP_LAUNCHER_BUTTON = By.cssSelector(\"div.slds-icon-waffle\");\n    public static final By APP_LAUNCHER_SEARCH_INPUT = By.cssSelector(\"input.slds-input[placeholder='Search apps and items...']\");\n    public static final By ACCOUNTS_NAV_TAB_RESULT = By.xpath(\"//mark[text()='Accounts']/ancestor::a\");\n\n    // Global Search\n    public static final By GLOBAL_SEARCH_INPUT = By.cssSelector(\"input[placeholder='Search Salesforce']\");\n    public static final String ACCOUNT_SEARCH_RESULT_LINK_XPATH_TEMPLATE = \"//a[@title='%s']\";\n\n    // Account Detail Page\n    public static final By TCV_AMOUNT_DISPLAY = By.cssSelector(\"lightning-output-field[field-name='TCV_Amount__c'] lightning-formatted-text\");\n    public static final By EDIT_BUTTON = By.xpath(\"//button[@name='Edit
+package locators;
+
+import org.openqa.selenium.By;
+
+public class AccountLocators {
+    public static final By NAME_INPUT = By.cssSelector("lightning-input-field[field-name='Name'] input");
+    public static final By TYPE_COMBOBOX = By.cssSelector("lightning-combobox[field-name='Type']");
+    public static final By OWNER_LOOKUP = By.cssSelector("lightning-lookup[field-name='OwnerId'] input");
+    // Add more locators here
+    private AccountLocators() {}
+}
