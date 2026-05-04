@@ -15,6 +15,10 @@
     "elem_r8l8i6": {
       "type": "css",
       "value": "div.forceToastMessage"
+    },
+    "elem_n6th5i": {
+      "type": "css",
+      "value": "lightning-spinner"
     }
   }
 }
