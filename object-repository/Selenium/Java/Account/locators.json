@@ -72,6 +72,10 @@
       "type": "css",
       "value": "lightning-lookup[field-name='OwnerId'] input",
       "lastUsed": "2026-05-04"
+    },
+    "elem_fpl0n4": {
+      "type": "xpath",
+      "value": "//a[@title='Acme Corp - TCV Test']"
     }
   }
 }
