@@ -18,6 +18,10 @@
     "spinner": {
       "type": "css",
       "value": "div.slds-spinner"
+    },
+    "toastMessage": {
+      "type": "css",
+      "value": "div.forceToastMessage span.toastMessage"
     }
   }
 }
